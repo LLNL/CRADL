@@ -1,0 +1,8 @@
+#!/bin/bash
+pip install pandas
+pip install torch
+pip install torchvision
+pip install apex
+pip install GPUtil
+pip install matplotlib
+pip install mpi4py
